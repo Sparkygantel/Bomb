@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+h{
+    color: red;
+}
+
+header img{
+    margin: 5px;
+    border-radius: 15px;
+}
+h1{
+    color: green;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+
+footer{
+    background-color: lightgoldenrodyellow;
+    border: 3px solid lightgray;
+    border-radius: 5px;
+}
+footer p{
+    background-color: lime;
+    padding: 4px;
+}
+
+nav{
+    margin: 7px;
+    padding: 10px;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+}
+
+nav a{
+    text-align: none;
+    color: brown;
+}
+
+prod{
+    background-color: aquamarine;
+}
+
+h2{
+    color: aqua;
+    font-size: 40px;
+
+}
+
+red{
+    border: 5px solid aqua;
+    border-radius: 8px;
+    
+}
